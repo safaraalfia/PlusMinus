@@ -1,6 +1,6 @@
 # PlusMinus
 Alfia Rohmah Safara (23422039)
-<br> 23422039 <br> TIF22A (Pagi)
+TIF22A (Pagi)
 
 # Tugas
 Menyelesaikan problem pada HackerRank tentang plus minus(https://www.hackerrank.com/challenges/plus-minus/problem) dengan cetak rasio dari nilai-nilai positif, negatif, dan nol dalam array. Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desimal. Fungsi tidak boleh mengembalikan nilai.
