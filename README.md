@@ -1,6 +1,6 @@
 # PlusMinus
-Nama : Alfia Rohmah Safara 
-Nim : 23422039
+Nama : Alfia Rohmah Safara <br>
+Nim : 23422039 <br>
 Kelas : TIF22A
 
 # Tugas
