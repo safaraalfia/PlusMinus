@@ -1,6 +1,7 @@
 # PlusMinus
-Alfia Rohmah Safara (23422039)
-TIF22A (Pagi)
+Nama : Alfia Rohmah Safara 
+Nim : 23422039
+Kelas : TIF22A
 
 # Tugas
 Menyelesaikan problem pada HackerRank tentang plus minus(https://www.hackerrank.com/challenges/plus-minus/problem) dengan cetak rasio dari nilai-nilai positif, negatif, dan nol dalam array. Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desimal. Fungsi tidak boleh mengembalikan nilai.
